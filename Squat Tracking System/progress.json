@@ -1,0 +1,137 @@
+{
+    "2025-03-11 19:48:11": {
+        "score": 51.88104561687156,
+        "good_frame_ratio": 0.0,
+        "knee_toe_issues": 575,
+        "spine_issues": 325,
+        "angle_issues": 212
+    },
+    "2025-03-11 19:48:58": {
+        "score": 51.88104561687156,
+        "good_frame_ratio": 0.0,
+        "knee_toe_issues": 575,
+        "spine_issues": 325,
+        "angle_issues": 212
+    },
+    "2025-03-11 19:54:42": {
+        "score": 56.99010594728374,
+        "good_frame_ratio": 0.0,
+        "knee_toe_issues": 575,
+        "spine_issues": 325,
+        "angle_issues": 212
+    },
+    "2025-03-11 20:00:30": {
+        "score": 78.29184471939212,
+        "good_frame_ratio": 100.0,
+        "knee_toe_issues": 571,
+        "depth_issues": 575
+    },
+    "2025-03-14 14:15:58": {
+        "score": 78.29159810239496,
+        "good_frame_ratio": 100.0,
+        "knee_toe_issues": 570,
+        "depth_issues": 575
+    },
+    "2025-03-20 20:58:57": {
+        "score": 78.29159810239496,
+        "good_frame_ratio": 100.0,
+        "knee_toe_issues": 570,
+        "depth_issues": 575
+    },
+    "2025-03-20 21:00:41": {
+        "score": 78.29159810239496,
+        "good_frame_ratio": 100.0,
+        "knee_toe_issues": 570,
+        "depth_issues": 575
+    },
+    "2025-04-21 23:37:56": {
+        "score": 78.82635617139314,
+        "good_frame_ratio": 100.0,
+        "knee_toe_issues": 496,
+        "depth_issues": 496
+    },
+    "2025-04-22 01:06:24": {
+        "score": 78.66507268014841,
+        "good_frame_ratio": 100.0,
+        "knee_toe_issues": 570,
+        "depth_issues": 575
+    },
+    "2025-04-22 01:08:25": {
+        "score": 78.3168963605429,
+        "_good_frame_ratio": 100.0,
+        "knee_toe_issues": 291,
+        "depth_issues": 291
+    },
+    "2025-04-22 11:00:54": {
+        "score": 78.30509877135492,
+        "_good_frame_ratio": 100.0,
+        "knee_toe_issues": 292,
+        "depth_issues": 292
+    },
+    "2025-04-22 11:01:51": {
+        "score": 78.66507268014841,
+        "_good_frame_ratio": 100.0,
+        "knee_toe_issues": 570,
+        "depth_issues": 575
+    },
+    "2025-04-22 11:02:22": {
+        "score": 77.17879399712481,
+        "_good_frame_ratio": 100.0,
+        "knee_toe_issues": 112,
+        "depth_issues": 112
+    },
+    "2025-04-22 11:03:20": {
+        "score": 78.66507268014841,
+        "_good_frame_ratio": 100.0,
+        "knee_toe_issues": 570,
+        "depth_issues": 575
+    },
+    "2025-04-22 15:50:13": {
+        "score": 78.66507268014841,
+        "_good_frame_ratio": 100.0,
+        "knee_toe_issues": 570,
+        "depth_issues": 575
+    },
+    "2025-04-22 15:51:42": {
+        "score": 77.12227433072138,
+        "_good_frame_ratio": 100.0,
+        "knee_toe_issues": 34,
+        "depth_issues": 34
+    },
+    "2025-04-22 15:57:16": {
+        "score": 76.91697463682728,
+        "_good_frame_ratio": 100.0,
+        "knee_toe_issues": 25,
+        "depth_issues": 25
+    },
+    "2025-04-22 17:04:56": {
+        "score": 79.86961199054355,
+        "_good_frame_ratio": 100.0,
+        "knee_toe_issues": 96,
+        "depth_issues": 301
+    },
+    "2025-04-22 17:08:05": {
+        "score": 76.91101550790226,
+        "_good_frame_ratio": 100.0,
+        "knee_toe_issues": 559,
+        "depth_issues": 923
+    },
+    "2025-04-22 17:12:58": {
+        "score": 79.62644279816888,
+        "_good_frame_ratio": 100.0,
+        "knee_toe_issues": 13,
+        "depth_issues": 37
+    },
+    "2025-04-22 17:19:55": {
+        "score": 78.75463864095856,
+        "_good_frame_ratio": 100.0,
+        "knee_toe_issues": 240,
+        "depth_issues": 489
+    },
+    "2025-05-22 23:02:47": {
+        "score": 78.7493700898338,
+        "_good_frame_ratio": 100.0,
+        "knee_toe_issues": 96,
+        "depth_issues": 230
+    }
+}
